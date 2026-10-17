@@ -1,0 +1,263 @@
+{
+  "unit": 493,
+  "A_ref": 2657.033447265625,
+  "A_ref_recomputed": 2657.033203125,
+  "top50": [
+    {
+      "rank": 1,
+      "class": "red fox",
+      "rel": 1.2816483974456787
+    },
+    {
+      "rank": 2,
+      "class": "tabby",
+      "rel": 1.1798229217529297
+    },
+    {
+      "rank": 3,
+      "class": "lesser panda",
+      "rel": 1.1367260217666626
+    },
+    {
+      "rank": 4,
+      "class": "kit fox",
+      "rel": 1.1109198331832886
+    },
+    {
+      "rank": 5,
+      "class": "lesser panda",
+      "rel": 1.0947693586349487
+    },
+    {
+      "rank": 6,
+      "class": "red fox",
+      "rel": 1.0853747129440308
+    },
+    {
+      "rank": 7,
+      "class": "red fox",
+      "rel": 1.069056510925293
+    },
+    {
+      "rank": 8,
+      "class": "Persian cat",
+      "rel": 1.0069423913955688
+    },
+    {
+      "rank": 9,
+      "class": "red fox",
+      "rel": 0.9899090528488159
+    },
+    {
+      "rank": 10,
+      "class": "tiger cat",
+      "rel": 0.9780108332633972
+    },
+    {
+      "rank": 11,
+      "class": "papillon",
+      "rel": 0.9507656097412109
+    },
+    {
+      "rank": 12,
+      "class": "lynx",
+      "rel": 0.9343399405479431
+    },
+    {
+      "rank": 13,
+      "class": "lynx",
+      "rel": 0.9242386221885681
+    },
+    {
+      "rank": 14,
+      "class": "Pembroke",
+      "rel": 0.9132812023162842
+    },
+    {
+      "rank": 15,
+      "class": "lynx",
+      "rel": 0.902114987373352
+    },
+    {
+      "rank": 16,
+      "class": "kit fox",
+      "rel": 0.9020194411277771
+    },
+    {
+      "rank": 17,
+      "class": "grey fox",
+      "rel": 0.9003139734268188
+    },
+    {
+      "rank": 18,
+      "class": "Japanese spaniel",
+      "rel": 0.890077531337738
+    },
+    {
+      "rank": 19,
+      "class": "Persian cat",
+      "rel": 0.8788207769393921
+    },
+    {
+      "rank": 20,
+      "class": "water ouzel",
+      "rel": 0.8708469867706299
+    },
+    {
+      "rank": 21,
+      "class": "papillon",
+      "rel": 0.8654670715332031
+    },
+    {
+      "rank": 22,
+      "class": "mink",
+      "rel": 0.8631728291511536
+    },
+    {
+      "rank": 23,
+      "class": "Arctic fox",
+      "rel": 0.8595594167709351
+    },
+    {
+      "rank": 24,
+      "class": "tabby",
+      "rel": 0.8572871088981628
+    },
+    {
+      "rank": 25,
+      "class": "Australian terrier",
+      "rel": 0.8545824885368347
+    },
+    {
+      "rank": 26,
+      "class": "Egyptian cat",
+      "rel": 0.8514497876167297
+    },
+    {
+      "rank": 27,
+      "class": "dingo",
+      "rel": 0.8493068814277649
+    },
+    {
+      "rank": 28,
+      "class": "weasel",
+      "rel": 0.8491870164871216
+    },
+    {
+      "rank": 29,
+      "class": "Cardigan",
+      "rel": 0.8484417796134949
+    },
+    {
+      "rank": 30,
+      "class": "lynx",
+      "rel": 0.828087568283081
+    },
+    {
+      "rank": 31,
+      "class": "badger",
+      "rel": 0.8255441188812256
+    },
+    {
+      "rank": 32,
+      "class": "lesser panda",
+      "rel": 0.81719571352005
+    },
+    {
+      "rank": 33,
+      "class": "Japanese spaniel",
+      "rel": 0.813010573387146
+    },
+    {
+      "rank": 34,
+      "class": "Norwich terrier",
+      "rel": 0.8103008270263672
+    },
+    {
+      "rank": 35,
+      "class": "papillon",
+      "rel": 0.8045759201049805
+    },
+    {
+      "rank": 36,
+      "class": "meerkat",
+      "rel": 0.8042740821838379
+    },
+    {
+      "rank": 37,
+      "class": "polecat",
+      "rel": 0.7960911989212036
+    },
+    {
+      "rank": 38,
+      "class": "lesser panda",
+      "rel": 0.7946059703826904
+    },
+    {
+      "rank": 39,
+      "class": "black-footed ferret",
+      "rel": 0.7942025065422058
+    },
+    {
+      "rank": 40,
+      "class": "cheetah",
+      "rel": 0.7918639779090881
+    },
+    {
+      "rank": 41,
+      "class": "Egyptian cat",
+      "rel": 0.7876948714256287
+    },
+    {
+      "rank": 42,
+      "class": "Persian cat",
+      "rel": 0.7859463095664978
+    },
+    {
+      "rank": 43,
+      "class": "Persian cat",
+      "rel": 0.7845369577407837
+    },
+    {
+      "rank": 44,
+      "class": "weasel",
+      "rel": 0.783257246017456
+    },
+    {
+      "rank": 45,
+      "class": "Shih-Tzu",
+      "rel": 0.7824617624282837
+    },
+    {
+      "rank": 46,
+      "class": "lynx",
+      "rel": 0.7719874978065491
+    },
+    {
+      "rank": 47,
+      "class": "Maltese dog",
+      "rel": 0.7697791457176208
+    },
+    {
+      "rank": 48,
+      "class": "grey fox",
+      "rel": 0.7658345103263855
+    },
+    {
+      "rank": 49,
+      "class": "polecat",
+      "rel": 0.763160228729248
+    },
+    {
+      "rank": 50,
+      "class": "whippet",
+      "rel": 0.7618663311004639
+    }
+  ],
+  "n_mammal_in_top50": 49,
+  "pass": true,
+  "criterion": ">=50% of top-50 ImageNetV2 images in mammal classes (151-299, 330-388)",
+  "decomposition_max_abs_error": 0.002197265625,
+  "post_vs_relu_pre_max_err": 0.0,
+  "pre_at_scale": 3405.382568359375
+}

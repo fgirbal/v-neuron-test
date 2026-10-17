@@ -1,0 +1,318 @@
+{
+  "A_ref_55": 1256.6773681640625,
+  "top50": [
+    {
+      "rank": 1,
+      "class": "red fox",
+      "rel": 1.2152142524719238,
+      "path": "9e631657edf0635509113e40f67fa7a1425deb0d.jpeg"
+    },
+    {
+      "rank": 2,
+      "class": "tabby",
+      "rel": 1.13652765750885,
+      "path": "8371d1a202dedd9653d8460ebb61bd681b725abd.jpeg"
+    },
+    {
+      "rank": 3,
+      "class": "lesser panda",
+      "rel": 1.135079026222229,
+      "path": "143ddd21bba7f9d11a98cb7b97df336cd9fd4dc7.jpeg"
+    },
+    {
+      "rank": 4,
+      "class": "red fox",
+      "rel": 1.12367844581604,
+      "path": "40575a3dc629f8ea2b244025dbaf9379a27d5859.jpeg"
+    },
+    {
+      "rank": 5,
+      "class": "Persian cat",
+      "rel": 1.0724514722824097,
+      "path": "e0a3fbe805770fb60cf22bd0a6e60f7655033bb8.jpeg"
+    },
+    {
+      "rank": 6,
+      "class": "lesser panda",
+      "rel": 1.0477036237716675,
+      "path": "c348ff5955e2588698744a870acd433104de86fa.jpeg"
+    },
+    {
+      "rank": 7,
+      "class": "grille",
+      "rel": 1.0400431156158447,
+      "path": "f0ffcabceabdd5715e743839c85b658d7a4854b3.jpeg"
+    },
+    {
+      "rank": 8,
+      "class": "Egyptian cat",
+      "rel": 0.998936653137207,
+      "path": "24604f61a471011ab1b279b7f11b40d00fc64bb1.jpeg"
+    },
+    {
+      "rank": 9,
+      "class": "hamster",
+      "rel": 0.9901798963546753,
+      "path": "3d6e845eab16885bca9565b60c1277cf03004369.jpeg"
+    },
+    {
+      "rank": 10,
+      "class": "tabby",
+      "rel": 0.9830308556556702,
+      "path": "c085c1a9f39f266700399d98600bf63b8515af2e.jpeg"
+    },
+    {
+      "rank": 11,
+      "class": "Persian cat",
+      "rel": 0.9576886296272278,
+      "path": "4f4edf5b1e64a3cc872b24f177113d7e4ba1cc83.jpeg"
+    },
+    {
+      "rank": 12,
+      "class": "Persian cat",
+      "rel": 0.9510000348091125,
+      "path": "23c39936ce138211296d1b90a6dc9b823b69416e.jpeg"
+    },
+    {
+      "rank": 13,
+      "class": "tiger cat",
+      "rel": 0.9460257291793823,
+      "path": "1fa47d6459f9366353a1096448f249c19887ff0c.jpeg"
+    },
+    {
+      "rank": 14,
+      "class": "weasel",
+      "rel": 0.9427613019943237,
+      "path": "65d5b917ad4e9bc669bddea6cde93b83d5f3a529.jpeg"
+    },
+    {
+      "rank": 15,
+      "class": "lynx",
+      "rel": 0.9333168864250183,
+      "path": "c7817fff605cfe46e8a2f675d2db5e9cc9de89b8.jpeg"
+    },
+    {
+      "rank": 16,
+      "class": "kit fox",
+      "rel": 0.9150605797767639,
+      "path": "d9602adca7274fcb1a0979cd883ce0b7649fc828.jpeg"
+    },
+    {
+      "rank": 17,
+      "class": "Japanese spaniel",
+      "rel": 0.9136053323745728,
+      "path": "db9282d0720206e04d5cf6ce43f9c09bf3eef678.jpeg"
+    },
+    {
+      "rank": 18,
+      "class": "Egyptian cat",
+      "rel": 0.9044572710990906,
+      "path": "ed3ae81abc1beee1bcd146248f3f98478b92dd2c.jpeg"
+    },
+    {
+      "rank": 19,
+      "class": "Shetland sheepdog",
+      "rel": 0.9029781222343445,
+      "path": "a451ba48a099daca43182662ee23c097a4aeee61.jpeg"
+    },
+    {
+      "rank": 20,
+      "class": "lynx",
+      "rel": 0.8902611136436462,
+      "path": "ca803af4f28c4b76cff5e4cf18bd6e712148e538.jpeg"
+    },
+    {
+      "rank": 21,
+      "class": "meerkat",
+      "rel": 0.8867206573486328,
+      "path": "8034ddc161f5b9badbc9e8e85ee5dbe7c565d8c5.jpeg"
+    },
+    {
+      "rank": 22,
+      "class": "Persian cat",
+      "rel": 0.8818117380142212,
+      "path": "117581f0cefe109dd6cca770e95d32bf74cf8449.jpeg"
+    },
+    {
+      "rank": 23,
+      "class": "lesser panda",
+      "rel": 0.8681730628013611,
+      "path": "dc9973a2429283b0a012d46d3541001256ccbe83.jpeg"
+    },
+    {
+      "rank": 24,
+      "class": "tiger cat",
+      "rel": 0.8581758737564087,
+      "path": "c3848c4db58e85765949b0b8a8785739f34c6ca1.jpeg"
+    },
+    {
+      "rank": 25,
+      "class": "lynx",
+      "rel": 0.8521580100059509,
+      "path": "63254c57cd25afd6ee11619058367ab19e2e4bcb.jpeg"
+    },
+    {
+      "rank": 26,
+      "class": "Cardigan",
+      "rel": 0.8512594103813171,
+      "path": "048b8ae4f914244cec39e35c8d70f8c8544f296d.jpeg"
+    },
+    {
+      "rank": 27,
+      "class": "papillon",
+      "rel": 0.8503342866897583,
+      "path": "476372a5d3050de09f8eb13c0e4f5d05f1b62f42.jpeg"
+    },
+    {
+      "rank": 28,
+      "class": "tabby",
+      "rel": 0.8462595343589783,
+      "path": "458f2b063c4c3aabec266bb68d4a1ed709e5822f.jpeg"
+    },
+    {
+      "rank": 29,
+      "class": "kit fox",
+      "rel": 0.8427546620368958,
+      "path": "6433d453a6a18d322df27428ca25aa3d17768591.jpeg"
+    },
+    {
+      "rank": 30,
+      "class": "red fox",
+      "rel": 0.8327687978744507,
+      "path": "59e819081634950f15287f6d584e6a9e67ae0fc8.jpeg"
+    },
+    {
+      "rank": 31,
+      "class": "Cardigan",
+      "rel": 0.8322632312774658,
+      "path": "3d901b43e012e23a509b37b63308c0f9db4ecdd8.jpeg"
+    },
+    {
+      "rank": 32,
+      "class": "hare",
+      "rel": 0.8182171583175659,
+      "path": "121a70f15ad5cbbf402fbaaa49231fc872f629b5.jpeg"
+    },
+    {
+      "rank": 33,
+      "class": "polecat",
+      "rel": 0.8112196326255798,
+      "path": "6fe648e74a7084fd98d7ed48c6a5c7e625c28e3f.jpeg"
+    },
+    {
+      "rank": 34,
+      "class": "hamster",
+      "rel": 0.8073956966400146,
+      "path": "b467bfa24287bd817527942b6f94cf4044da4072.jpeg"
+    },
+    {
+      "rank": 35,
+      "class": "grey fox",
+      "rel": 0.7999269962310791,
+      "path": "d3d94bdb7c235c855b84f41a420707e55e1cbfb9.jpeg"
+    },
+    {
+      "rank": 36,
+      "class": "Japanese spaniel",
+      "rel": 0.7991059422492981,
+      "path": "c108561312f348b39bfb98af5f83932cd66fe847.jpeg"
+    },
+    {
+      "rank": 37,
+      "class": "cheetah",
+      "rel": 0.7969846129417419,
+      "path": "be82bd8de1d9d6fad6cb52fbc6c2a42d2337bc48.jpeg"
+    },
+    {
+      "rank": 38,
+      "class": "black-footed ferret",
+      "rel": 0.7928519248962402,
+      "path": "3e7c39f1689e8806c3a4eebe12dda2a97ea3b74f.jpeg"
+    },
+    {
+      "rank": 39,
+      "class": "water ouzel",
+      "rel": 0.7908169627189636,
+      "path": "4cb29b1a18fd11a7c75a369daf7a9624166ea9da.jpeg"
+    },
+    {
+      "rank": 40,
+      "class": "Maltese dog",
+      "rel": 0.7893365621566772,
+      "path": "124b2f098f993dbaf44568b2bfe8b1d7d37556a5.jpeg"
+    },
+    {
+      "rank": 41,
+      "class": "papillon",
+      "rel": 0.7892946004867554,
+      "path": "4b818ee9e65ffeb34f17c3e56b9aaf3df8fbfd20.jpeg"
+    },
+    {
+      "rank": 42,
+      "class": "lesser panda",
+      "rel": 0.7880138754844666,
+      "path": "8ad37f0df813ef22920b6bbee43801b35df4f6fa.jpeg"
+    },
+    {
+      "rank": 43,
+      "class": "red fox",
+      "rel": 0.7865483164787292,
+      "path": "0a45138441f520b13c405cb253f681d569fab55f.jpeg"
+    },
+    {
+      "rank": 44,
+      "class": "jeep",
+      "rel": 0.7830851674079895,
+      "path": "996ed9a6e86726034bc423ac927303e2d643908e.jpeg"
+    },
+    {
+      "rank": 45,
+      "class": "lynx",
+      "rel": 0.7754173278808594,
+      "path": "ae1b883645e1057e9f1837e25b679a67105ee5e7.jpeg"
+    },
+    {
+      "rank": 46,
+      "class": "Japanese spaniel",
+      "rel": 0.7741409540176392,
+      "path": "1da555d1ac258e1932a93940a428cee5df5b08ee.jpeg"
+    },
+    {
+      "rank": 47,
+      "class": "grey fox",
+      "rel": 0.7721701264381409,
+      "path": "07d679c9c08fcb06ed348937cfce520de73b6c26.jpeg"
+    },
+    {
+      "rank": 48,
+      "class": "mongoose",
+      "rel": 0.7691799998283386,
+      "path": "bc04578821c41c9e01655fbdd20c901ee469d6c7.jpeg"
+    },
+    {
+      "rank": 49,
+      "class": "white stork",
+      "rel": 0.7658149003982544,
+      "path": "b3b70882698594f5c2ebe51fe6eafa9d1b8666c8.jpeg"
+    },
+    {
+      "rank": 50,
+      "class": "weasel",
+      "rel": 0.765751838684082,
+      "path": "da5e17c549e42f14b275e871578104a8718bf228.jpeg"
+    }
+  ],
+  "counts": {
+    "cats": 11,
+    "wild_canids": 8,
+    "dogs": 9,
+    "vehicles": 2,
+    "other": 20
+  },
+  "frac_in_groups": 0.6,
+  "criterion": ">=60% in cats|wild canids|dogs|vehicles, >=5 cats+wild canids, >=3 vehicles",
+  "pass": false,
+  "decomposition_max_abs_error": 0.0003662109375,
+  "pre_at_scale": 1527.1322021484375,
+  "log": []
+}

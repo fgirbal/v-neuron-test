@@ -1,0 +1,10 @@
+# Versions used for the reported runs (Python 3.12.11).
+# torch-lucent was installed with --no-deps; see "Reproducing" in README.md.
+torch==2.14.1
+torchvision==0.29.1
+torch-lucent==0.1.8
+numpy==2.5.4
+scipy==1.18.1
+pillow==13.0.0
+pandas==3.0.6
+matplotlib==3.11.2

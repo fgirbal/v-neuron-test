@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Datasets, cached model weights and scan caches (.npz) are not part of this repository.
+# scratch/ is the default data and cache directory set in src/common.py (see README.md).
+scratch/
+data/
+work/
+cache/
+venv/
+.venv/
+*.npz
+*.pth
