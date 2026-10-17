@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the blog post below."
+title: "On the Polysemanticity of the V Neuron: code, pre-registrations and results"
+abstract: >-
+  Two pre-registered tests of whether InceptionV1's "V neuron" (mixed4e:55) and its largest input,
+  mixed4d:493 (the "fox snout" channel), detect V shapes, by varying shape and content independently.
+type: software
+authors:
+  - family-names: Eiras
+    given-names: Francisco
+repository-code: "https://github.com/fgirbal/v-neuron-test"
+url: "https://fgirbal.github.io/blog/v-neuron-polysemanticity/"
+date-released: 2026-10-17
+keywords:
+  - interpretability
+  - mechanistic interpretability
+  - polysemanticity
+  - InceptionV1
+  - pre-registration
+preferred-citation:
+  type: blog
+  title: "On the Polysemanticity of the V Neuron"
+  authors:
+    - family-names: Eiras
+      given-names: Francisco
+  year: 2026
+  month: 10
+  url: "https://fgirbal.github.io/blog/v-neuron-polysemanticity/"

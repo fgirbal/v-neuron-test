@@ -1,4 +1,8 @@
-# Is InceptionV1's "V neuron" a V detector? Two pre-registered tests
+# On the Polysemanticity of the V Neuron
+
+Two pre-registered tests of whether InceptionV1's "V neuron" (mixed4e:55) is a V-shape detector.
+
+**Blog post:** [On the Polysemanticity of the V Neuron](https://fgirbal.github.io/blog/v-neuron-polysemanticity/)
 
 The essay [*Neural Networks Are Already Clean*](https://already-clean.goodfire.com/) reinterprets InceptionV1
 unit **mixed4e:55**, long described as a polysemantic "cat faces and car fronts" neuron, as a single detector
@@ -11,7 +15,11 @@ that responds to cat faces and car fronts. This repository contains two small pr
 vary shape and content independently, on 4e:55 (the essay's "V neuron") and on 4d:493 (its "fox snout"
 input), together with all code, results and the full write-up.
 
-Blog post: (link to be added)
+![Study 2 stimuli: a V, a rounded V, an ellipse and a disk filled with textures or fur on gray; below, cat and dog
+faces seen whole and through equal-area V, rounded V, ellipse and disk windows](results_4d493/fig_stage2_examples.jpg)
+
+*Example stimuli (study 2, 4d:493). Top row: shapes with no animal or car content. Rows 2–3: the same face whole,
+then through equal-area V, rounded V, ellipse and disk windows.*
 
 - Full report: [REPORT.md](REPORT.md)
 - Results page with charts, methods and decision tables: [report/index.html](report/index.html). This is a
@@ -26,6 +34,14 @@ images. The pre-registered threshold for "strong" is 0.30.
 |---|---|---|
 | 1. 4e:55: shapes, silhouettes, input routes | [PREREGISTRATION.md](PREREGISTRATION.md) | **Mixed.** None of the "supported" or "refuted" rules fired. |
 | 2. 4d:493, the "fox snout" input | [PREREGISTRATION_4d493.md](PREREGISTRATION_4d493.md) | **Pointed-snout account refuted; content account supported.** The elongation account was not supported. |
+
+![Three bar charts for 4e:55. A: textured shapes alone reach about 0.1 of a typical top image. B: keeping an
+object's outline but flattening or scrambling its inside leaves 0.15 and 0.11 of the drive, while editing the
+background leaves 0.97 to 0.99. C: on cat faces, a V window beats a disk at the small pre-registered window size,
+but the disk wins once the windows show most of the face.](results/fig_summary.png)
+
+*4e:55 at a glance. Panel B is pre-registered; panels A and C come from the exploratory checks run after study 1
+(see below).*
 
 **Study 1 (4e:55).** Verdicts are in `results/stage2_tests.json` under `decisions`.
 - Synthetic shapes with neutral texture and no eyes: V 0.12, rounded V (U) 0.11, disk 0.02. The essay's
@@ -59,6 +75,7 @@ images. The pre-registered threshold for "strong" is 0.30.
 
 ```
 README.md
+CITATION.cff                        citation metadata
 REPORT.md                           full written report
 PREREGISTRATION.md                  study 1 (4e:55); deviations D1–D3; post-run notes
 PREREGISTRATION_4d493.md            study 2 (4d:493); deviations D1–D2; post-run note
@@ -205,6 +222,19 @@ python -I s6_tests_4d.py --unit 493                   # pre-registered tests (th
 
 On the M1 Max, study 1 took about 35 minutes of wall-clock time (about 10 of them compute) and study 2
 about 4 minutes of compute.
+
+## Citation
+
+```bibtex
+@misc{eiras2026vneuron,
+  author = {Eiras, Francisco},
+  title  = {On the polysemanticity of the {V} neuron},
+  year   = {2026},
+  url    = {https://fgirbal.github.io/blog/v-neuron-polysemanticity/}
+}
+```
+
+GitHub's "Cite this repository" button uses [CITATION.cff](CITATION.cff).
 
 ## Authorship
 
