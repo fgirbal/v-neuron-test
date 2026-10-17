@@ -75,6 +75,7 @@ but the disk wins once the windows show most of the face.](results/fig_summary.p
 
 ```
 README.md
+LICENSE                             MIT
 CITATION.cff                        citation metadata
 REPORT.md                           full written report
 PREREGISTRATION.md                  study 1 (4e:55); deviations D1–D3; post-run notes
@@ -241,7 +242,8 @@ GitHub's "Cite this repository" button uses [CITATION.cff](CITATION.cff).
 The study design and the experiments were orchestrated by a human (Francisco Girbal Eiras). The
 implementation (stimuli, measurements and analysis) was written with Claude Opus 5.5 and checked by a human.
 
-## Images
+## License
 
-Images in the figures (`results/`, `results_4d493/`, `report/img/`) come from ImageNetV2, Oxford-IIIT Pets
-and DTD, and remain under those datasets' original terms.
+The code and written material are released under the [MIT License](LICENSE). Images in the figures
+(`results/`, `results_4d493/`, `report/img/`) come from ImageNetV2, Oxford-IIIT Pets and DTD, and remain under
+those datasets' original terms.

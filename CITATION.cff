@@ -5,6 +5,7 @@ abstract: >-
   Two pre-registered tests of whether InceptionV1's "V neuron" (mixed4e:55) and its largest input,
   mixed4d:493 (the "fox snout" channel), detect V shapes, by varying shape and content independently.
 type: software
+license: MIT
 authors:
   - family-names: Eiras
     given-names: Francisco
